@@ -21,10 +21,11 @@ export function Hero() {
       {/* Content */}
       <div className="relative z-10 text-center px-6">
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-4 text-balance">
-          Услуги перевозок
+          Услуги эвакуатора Актобе
         </h1>
         <p className="text-lg md:text-xl text-white/80 mb-8">
-          Перевозки по Казахстану, России и стран СНГ
+          По Казахстану, России и стран СНГ
+          Быстро и дешево, звоните в любое время
         </p>
         <a 
           href="https://wa.me/77085151998"
